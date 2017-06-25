@@ -1,0 +1,145 @@
+2016-07-26 04:03:32,184 - root - INFO - set proxy to http://127.0.0.1:8087
+2016-07-26 04:03:32,185 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:03:32,185 - root - INFO - appid:aasiceng
+2016-07-26 04:03:32,204 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:34,334 - oauth2client.client - INFO - Successfully retrieved access token
+2016-07-26 04:05:35,264 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:05:36,424 - root - INFO - Reading app configuration.
+2016-07-26 04:05:36,425 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:37,072 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:05:37,072 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:05:37,072 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:05:37,073 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:05:37,073 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:05:37,078 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:37,885 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:39,528 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:40,231 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:46,424 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:47,049 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:50,085 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:56,929 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'aasiceng'}
+2016-07-26 04:05:57,546 - root - INFO - Done!
+2016-07-26 04:05:57,547 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:05:57,547 - root - INFO - appid:aasiceng1
+2016-07-26 04:05:57,566 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:05:59,142 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:05:59,644 - root - INFO - Reading app configuration.
+2016-07-26 04:05:59,645 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:00,960 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:06:00,960 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:06:00,960 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:06:00,961 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:06:00,961 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:06:00,965 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:01,795 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:02,642 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:03,343 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:09,078 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:10,128 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:12,666 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:18,131 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'aasiceng1'}
+2016-07-26 04:06:19,435 - root - INFO - Done!
+2016-07-26 04:06:19,435 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:06:19,435 - root - INFO - appid:aasiceng2
+2016-07-26 04:06:19,456 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:20,427 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:06:20,929 - root - INFO - Reading app configuration.
+2016-07-26 04:06:20,929 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:22,947 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:06:22,947 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:06:22,948 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:06:22,948 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:06:22,948 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:06:22,953 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:23,805 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:24,636 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:25,541 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:32,785 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:33,431 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:36,727 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:42,835 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'aasiceng2'}
+2016-07-26 04:06:43,475 - root - INFO - Done!
+2016-07-26 04:06:43,476 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:06:43,476 - root - INFO - appid:aasiceng3
+2016-07-26 04:06:43,493 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:44,591 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:06:45,096 - root - INFO - Reading app configuration.
+2016-07-26 04:06:45,097 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:46,392 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:06:46,392 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:06:46,392 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:06:46,393 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:06:46,393 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:06:46,397 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:48,661 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:49,526 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:51,040 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:56,922 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:06:57,557 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:07:03,022 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:07:08,821 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'aasiceng3'}
+2016-07-26 04:07:09,986 - root - INFO - Done!
+2016-07-26 04:07:09,987 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:07:09,987 - root - INFO - appid:aasiceng4
+2016-07-26 04:07:10,004 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:11,018 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:07:11,523 - root - INFO - Reading app configuration.
+2016-07-26 04:07:11,523 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:12,846 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:07:12,847 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:07:12,847 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:07:12,847 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:07:12,848 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:07:12,852 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:15,221 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:16,068 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:16,726 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:26,466 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:27,087 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:29,568 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:37,527 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'aasiceng4'}
+2016-07-26 04:07:38,155 - root - INFO - Done!
+2016-07-26 04:07:38,156 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:07:38,156 - root - INFO - appid:xiaoxiaoluoge
+2016-07-26 04:07:38,172 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:38,998 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:07:39,485 - root - INFO - Reading app configuration.
+2016-07-26 04:07:39,485 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:40,885 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:07:40,885 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:07:40,886 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:07:40,886 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:07:40,886 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:07:40,891 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:41,703 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:42,530 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:43,220 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:49,026 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:49,816 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:52,873 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:59,086 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'xiaoxiaoluoge'}
+2016-07-26 04:07:59,742 - root - INFO - Done!
+2016-07-26 04:07:59,742 - root - INFO - ============  Begin upload  ============
+2016-07-26 04:07:59,742 - root - INFO - appid:xiaoxiaoliuying
+2016-07-26 04:07:59,760 - root - INFO - Send: /api/appversion/rollback, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:01,357 - root - INFO - Checking for updates to the SDK.
+2016-07-26 04:08:01,865 - root - INFO - Reading app configuration.
+2016-07-26 04:08:01,865 - root - INFO - Send: /api/appversion/getresourcelimits, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:02,541 - root - INFO - Processing file 'app.template.yaml'
+2016-07-26 04:08:02,542 - root - INFO - Processing file 'app.yaml'
+2016-07-26 04:08:02,542 - root - INFO - Processing file 'gae.py'
+2016-07-26 04:08:02,543 - root - INFO - Processing file 'legacy.py'
+2016-07-26 04:08:02,544 - root - INFO - Processing file 'wsgi.py'
+2016-07-26 04:08:02,549 - root - INFO - Send: /api/appversion/create, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:03,379 - root - INFO - Send: /api/appversion/clonefiles, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:04,934 - root - INFO - Send: /api/appversion/precompile, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:05,621 - root - INFO - Send: /api/appversion/deploy, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:14,821 - root - INFO - Send: /api/appversion/isready, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:15,455 - root - INFO - Send: /api/appversion/startserving, params={'willcheckserving': '1', 'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:19,603 - root - INFO - Send: /api/appversion/isserving, params={'new_serving_resp': '1', 'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:26,684 - root - INFO - Send: /api/logclientdeploy, params={'version': '1', 'app_id': 'xiaoxiaoliuying'}
+2016-07-26 04:08:27,831 - root - INFO - Done!
+2016-07-26 04:08:27,831 - root - INFO - =======================
+2016-07-26 04:08:27,831 - root - INFO - Deploy 7 appid successed.
+2016-07-26 04:08:27,831 - root - INFO - == END ==
